@@ -12,3 +12,7 @@ This allows one to (e.g.) add git-memex entries using the [Gotify mobile app](ht
    ```crontab
    10 * * * * bash -l /path/to/gmx-gotify-ingest/gmx_gotify_ingest.sh
    ```
+
+## License
+
+[MIT](./LICENSE.md)
